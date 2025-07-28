@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "48088cce-9b05-460c-8fe5-72f5644b29cf",
+    "name": "Alexander Nicolas",
+    "phone": "(495) 445-4973 x45178",
+    "email": "Lura.Bosco@yahoo.com",
+    "job": "International Directives Planner"
+  },
+  {
+    "id": "8204e804-1917-46fc-84e4-39b12a8c97b9",
+    "name": "Cory Fahey-Swift",
+    "phone": "549-864-6293 x341",
+    "email": "Freida38@hotmail.com",
+    "job": "International Branding Representative"
+  },
+  {
+    "id": "695be815-7550-41a9-bf6f-3cac9353509e",
+    "name": "Ellen O'Conner",
+    "phone": "815-839-0151 x4466",
+    "email": "Tracy.Doyle68@yahoo.com",
+    "job": "Global Research Designer"
+  },
+  {
+    "id": "a72c96c8-1661-4a15-8766-f9cb901544a7",
+    "name": "Sheldon Macejkovic",
+    "phone": "(750) 779-2372",
+    "email": "Elena.Walker@yahoo.com",
+    "job": "Central Mobility Administrator"
+  },
+  {
+    "id": "08ff667c-db02-431f-9191-2ec31788c46b",
+    "name": "Christine Batz",
+    "phone": "1-745-966-3988 x274",
+    "email": "Korbin.Leffler@yahoo.com",
+    "job": "National Accounts Architect"
+  }
+]
